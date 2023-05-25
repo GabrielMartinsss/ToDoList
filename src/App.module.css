@@ -1,0 +1,49 @@
+.wrapper {
+  width: 46rem;
+  margin: 4rem auto;
+}
+
+.inputSecion {
+  display: flex;
+  gap: 0.5rem;
+  width: 46rem;
+  margin: 0 auto;
+  margin-top: calc(0px - 1.6875rem);
+}
+
+.inputSecion input {
+  flex: 1;
+  padding: 1rem;
+  color: var(--gray-100);
+  background: var(--gray-500);
+  border-radius: 8px;
+  border: 0;
+}
+
+.inputSecion button[type='submit'] {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+
+  padding: 1rem;
+  color: var(--gray-100);
+  background: var(--blue-dark);
+  border: 0;
+  border-radius: 8px;
+
+  font-size: 0.875rem;
+  font-weight: 700;
+  line-height: 1.4;
+
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.inputSecion button[type='submit']:disabled {
+  opacity: 0.8;
+  cursor: not-allowed;
+}
+
+.inputSecion button[type='submit']:not(:disabled):hover {
+  background: var(--blue);
+}

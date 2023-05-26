@@ -2,7 +2,7 @@
 
 <h2 align='center'>💻 Projeto</h2>
 <p align='center'>
-  Aplicação de uma lista de tarefas, onde o usuario pode se organizar com os seus compromissos. 
+  Aplicação de uma lista de tarefas, onde o usuário pode se organizar com os seus compromissos. 
 </p>
 
 <p align='center'>

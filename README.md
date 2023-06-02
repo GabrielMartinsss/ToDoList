@@ -6,8 +6,8 @@
 </p>
 
 <p align='center'>
-  <img src='./src/assets/imagesProject/img01.jpeg' alt='Capa NLW'>
-  <img src='./src/assets/imagesProject/img02.jpeg' alt='Capa NLW'>
+  <img src='./src/assets/imagesProject/img01.jpeg' alt=''>
+  <img src='./src/assets/imagesProject/img02.jpeg' alt=''>
 </p>
 
 <h2 align='center'>⚙ Tecnologias </h2>
